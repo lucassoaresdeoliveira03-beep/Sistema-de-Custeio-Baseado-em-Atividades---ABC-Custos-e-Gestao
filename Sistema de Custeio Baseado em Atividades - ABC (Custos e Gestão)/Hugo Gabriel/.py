@@ -1,1 +1,2 @@
 print('Helo!!')
+nome = 'hugo'
